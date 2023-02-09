@@ -1,3 +1,6 @@
+domain: null.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://null.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /null/      # place folder name if the site is served in a subfolder
 title: Moonwalk
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
